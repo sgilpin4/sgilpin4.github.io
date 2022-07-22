@@ -28,3 +28,10 @@ Teaching Assistant. Description: undergraduate recitation course supplement to l
 Calculus I Recitation, Fall 2019
 ------
 Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus I students, approx. 25 students, 50 min remote course once a week, three recitation courses taught. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
+
+Professional Developmet
+======
+In order to succeed as an effective instructor, I am always seeking out ways to learn and grow as a teacher. This includes participating in various professional development workshops and seminars on teaching.
+Transforming Your Teaching Into Learning (TYRIT), Summer 2022, University of Colorado Boulder
+------
+This seven week workshop series offered through the CRTIL network explored how to create a class from the groud up using participants PhD or postdoc research as the material for the course.
