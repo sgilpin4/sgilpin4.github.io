@@ -1,7 +1,6 @@
 ---
 title: "Research"
 collection: research
-permalink: /research/about_research
 
 ---
 
