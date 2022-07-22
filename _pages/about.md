@@ -10,7 +10,7 @@ redirect_from:
 
 About Me
 ======
-Words that can describe me are: mathematician, atmsospheric scientist, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. While I will always be a mathematician first, the motivation for my work is to strive to make our world a better place for all living things.
+Words that best describe me are: mathematician, atmsospheric scientist, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. While I will always be a mathematician first, I always to strive to make our world a better place for all living things.
 
 Research Interests
 ======
@@ -19,4 +19,5 @@ I believe mathematics is its most beautiful when it can be used to understand th
 Eduation
 ======
 B.A. Mathematics, University of California Santa Cruz, 2017
+
 M.S. Applied Mathematics, University of Colorado Boulder, 2022
