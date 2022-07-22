@@ -1,7 +1,6 @@
 ---
 title: "Teaching"
 collection: teaching
-permalink: /teaching/about_teaching
 
 ---
 
