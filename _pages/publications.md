@@ -1,16 +1,11 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Publications and Research"
+permalink: /publications_and_research/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+Here I've grouped by research interests and publications into one
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+
