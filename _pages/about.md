@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shay Gilpin"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-======
 Words that best describe me are: mathematician, atmsospheric scientist, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. I always to strive to make our world a better place for all living things.
 
 Research Interests
