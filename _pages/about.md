@@ -8,8 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-Mathematics is the foundation of all science and is a powerful tool to describe the world around us.
+About Me
+======
+Words that can describe me are: mathematician, atmsospheric scientist, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. While I will always be a mathematician first, the motivation for my work is to strive to make our world a better place for all living things.
 
 Research Interests
 ======
-I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems within atmosphere and ocean science. My current research focuses on dynamics in the context of data assimilation, particularly covariance dynamics associated with states governed by hyperbolic partial differential equations (the continuity equation, for example). Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution, which is an integral part of data assimilation algorithms.
+I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems within atmosphere and ocean science. My current research focuses on dynamics in the context of data assimilation, particularly covariance dynamics associated with states governed by the continuity and related hyperbolic partial differential equations. Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution in the continuum and as practiced in data assimilation algorithms.
+
+Eduation
+======
+B.A. Mathematics, University of California Santa Cruz, 2017
+M.S. Applied Mathematics, University of Colorado Boulder, 2022
