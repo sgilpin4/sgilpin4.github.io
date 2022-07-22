@@ -19,6 +19,7 @@ I believe mathematics is its most beautiful when it can be used to understand th
 Eduation
 ======
 B.A. Mathematics, University of California Santa Cruz, 2017
-------
+
+
 M.S. Applied Mathematics, University of Colorado Boulder, 2022
-------
+
