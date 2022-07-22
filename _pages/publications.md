@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications and Research"
-permalink: /publications_and_research/
+title: "Publications"
+permalink: /publications/
 author_profile: true
 ---
 Here I've grouped by research interests and publications into one
