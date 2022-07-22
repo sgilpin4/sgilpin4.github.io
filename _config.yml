@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shay Gilpin / Site Title"
+title                    : "Shay Gilpin"
 title_separator          : "-"
 name                     : &name "Shay Gilpin"
 description              : &description ""
