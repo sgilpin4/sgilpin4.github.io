@@ -12,9 +12,9 @@ Words that best describe me are: mathematician, atmsospheric scientist, Colorado
 
 Research Interests
 ======
-I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems within atmosphere and ocean science. My current research focuses on dynamics in the context of data assimilation, particularly covariance dynamics associated with states governed by the continuity and related hyperbolic partial differential equations. Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution in the continuum and as practiced in data assimilation algorithms.
+I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My current research focuses on dynamics in the context of data assimilation, particularly covariance dynamics associated with states governed by the continuity and related hyperbolic partial differential equations. Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution in the continuum and as practiced in data assimilation algorithms.
 
-Eduaction
+Education
 ======
 B.A. Mathematics, University of California Santa Cruz, 2017
 
