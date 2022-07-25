@@ -20,7 +20,7 @@ Radio occultation (RO) is a method of remote-sensing used to observe Earth's atm
 While working for the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) group and UCAR, I worked on small projects with the aim of improving co-locations methods for RO-radiosonde comparisons and investiagating the errors introduced during vertical interpolation of bending angles during RO data assimilation.
 
 
-Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons. Atmos. Meas. Tech. 11. https://doi.org/10.5194/amt- 11-1-2018.
+Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons. Atmos. Meas. Tech. 11. https://doi.org/10.5194/amt-11-1-2018.
 
 
 Gilpin, S., Anthes, R., and Sokolovskiy, S., 2019: Sensitivity of forward-modeled bending angles to vertical interpolation of refractivity for radio occultation data assimilation. Mon. Wea. Rev. 147. https://doi.org/10.1175/MWR-D-18-0223.1
