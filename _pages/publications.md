@@ -10,7 +10,7 @@ author_profile: true
 
 2022
 ------
-Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation for under- standing variance loss in advective systems. Accepted for publication in SIAM/ASA Journal on Uncertainty Quantification.
+Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation for understanding variance loss in advective systems. Accepted for publication in SIAM/ASA Journal on Uncertainty Quantification.
 
 
 2019
@@ -20,4 +20,4 @@ Gilpin, S., Anthes, R., and Sokolovskiy, S., 2019: Sensitivity of forward-modele
 
 2018
 ------
-Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons. Atmos. Meas. Tech. 11. https://doi.org/10.5194/amt- 11-1-2018.
+Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons. Atmos. Meas. Tech. 11. https://doi.org/10.5194/amt-11-1-2018.
