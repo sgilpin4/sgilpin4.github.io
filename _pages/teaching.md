@@ -13,6 +13,7 @@ On the surface, my role as an instructor is to teach my students mathematics and
 
 Teaching Experience
 ======
+
 Teaching Excellence, Fall 2021, University of Colorado, Boulder
 ------
 Teaching Assistant. Description: graduate course for first-time teaching assistants for the Applied Math department, approx. 15 students, 50 min remote course once a week. Responsibilities include: generating curriculum for the course, instructing half of the semester classes, writing and grading assignments.
