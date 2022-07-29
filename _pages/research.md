@@ -12,6 +12,10 @@ Covariance Dynamics in Data Assimilation
 ======
 Uncertainty quantification, particularly the covariance, is crucial for numerical weather prediction (NWP) models, and there are still parts of how the covariance evolves in time that we don’t fully understand. My research looks at this covariance propagation, studying the mathematical equations that describe its time evolution and how we solve these equations during data assimilation. By taking a fundamental look at these equations, I am seeking a better understanding of behaviors observed in current NWP models, such as variance loss, to improve our ability to more accurately forecast weather and provide better preparedness for severe weather events. This research involves different areas of mathematics: statistics, functional analysis, partial differential equations, and numerical analysis.
 
+Relevant Publications
+------
+Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation for understanding variance loss in advective systems. Accepted for publication in SIAM/ASA Journal on Uncertainty Quantification.
+
 
 Radio Occultation
 ======
