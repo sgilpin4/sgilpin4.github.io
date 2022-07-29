@@ -33,8 +33,8 @@ In order to succeed as an effective instructor, I am always seeking out ways to 
 
 Transforming Your Teaching Into Learning (TYRIT), Summer 2022, University of Colorado, Boulder
 ------
-This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the groud up using participants PhD or postdoc research as the material for the course.
+This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the groud up using participant's PhD or postdoc research as the material for the course.
 
 Center for Teaching and Learning Lead, Summer 2020-Spring 2021, University of Colorado, Boulder
 ------
-I participated as one of two Center for Teaching and Learning (CTL) Lead Teaching Assistants for the Applied Math department. As Lead, I participated in a week-long orientation through the CTL and served as a resource for Teaching Assistants in our department. This included running the Teaching Excellence course in Fall 2022, providing class observations and video teaching consultations.
+I participated as one of two Center for Teaching and Learning (CTL) Lead Teaching Assistants for the Applied Math department. As Lead, I participated in a week-long orientation through the CTL and served as a resource for Teaching Assistants in our department for the 2020-2021 academic year. This included running the Teaching Excellence course in Fall 2022, observing classes, and video teaching consultations.
