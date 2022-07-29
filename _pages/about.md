@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Words that best describe me are: mathematician, atmsospheric scientist, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. I always to strive to make our world a better place for all living things.
+Words that best describe me are: mathematician, NSF Graduate Research Fellow, Colorado native, Banana Slug, chef, video gamer, woodworker, and lover of planet Earth. I always to strive to make our world a better place for all living things.
 
 Research Interests
 ======
