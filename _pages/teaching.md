@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-Part of my desire to enter graduate school was the opportunity to teach mathematics. Teaching the next generation is fundamental to progress and an opportunity for me share my passion for mathematics with my students. Though I have been and continue to be fully funded to do research as a graduate student, I look for opportunities to either teach while pursing research or participate in professional development to grow as an instructor and prepare for a career in academia.
+Part of my desire to enter graduate school was the opportunity to teach mathematics. Teaching the next generation is fundamental to progress and a chance for me share my passion for mathematics with my students. Though I have been and continue to be fully funded to do research as a graduate student, I look for opportunities to either teach while pursing research or participate in professional development to grow as an instructor and prepare for a career in academia.
 
 Philosophy of Teaching and Learning
 ======
