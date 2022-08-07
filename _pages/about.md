@@ -16,8 +16,8 @@ My future research goals are to continue bridging our continuum understanding of
 
 Education
 ======
-* PhD, Applied Mathematics, University of Colorado Boulder, expected Spring 2023
-* M.S. Applied Mathematics, University of Colorado Boulder, 2022
+* PhD, Applied Mathematics, University of Colorado, Boulder, expected Spring 2023
+* M.S. Applied Mathematics, University of Colorado, Boulder, 2022
 * B.A. Mathematics, University of California Santa Cruz, 2017
 
 
