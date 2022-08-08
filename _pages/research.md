@@ -24,7 +24,7 @@ Radio Occultation
 ======
 Radio occultation (RO) is a method of remote-sensing used to observe Earth's atmosphere. As radiowaves emitted from GPS satellites traverse quasi-horiztontally through our atmosphere, they "occult", or bend, depending on the atmospheric state. Low-Earth orbiting (LEO) satellites then receive these radiowave signals, which can ultimately produce vertical profiles important lower atmospheric and ionospheric quantities. RO observations are assimilated into numerical weather prediction and have been shown to make a significant impact.
 
-While working for the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) group and UCAR, I worked on small projects with the aim of improving co-locations methods for RO-radiosonde comparisons and investiagating the errors introduced during vertical interpolation of bending angles during RO data assimilation.
+While working for the Constellation Observing System for Meteorology, Ionosphere, and Climate ([COSMIC](https://www.cosmic.ucar.edu)) Program and UCAR, I worked on small projects with the aim of improving co-locations methods for RO-radiosonde comparisons and investiagating the errors introduced during vertical interpolation of bending angles during RO data assimilation.
 
 ![image](/images/rors_elipse_example.png)
 Traditional co-location methods used for comparing atmospheric observations are circles: observations are compared within a fixed distance of a specified location. In [Gilpin et. al., (2018)](https://doi.org/10.5194/amt-11-1-2018), we propose to co-locate observations using elipses oriented along the direction of the wind, rather than circles, to reduce representativeness errors during radiosonde-RO comparisions. 
