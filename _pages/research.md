@@ -26,6 +26,9 @@ Radio occultation (RO) is a method of remote-sensing used to observe Earth's atm
 
 While working for the Constellation Observing System for Meteorology, Ionosphere, and Climate (COSMIC) group and UCAR, I worked on small projects with the aim of improving co-locations methods for RO-radiosonde comparisons and investiagating the errors introduced during vertical interpolation of bending angles during RO data assimilation.
 
+![image](/images/rors_elipse_example.pdf)
+Traditional co-location methods used for comparing atmospheric observations are circles: observations are compared within a fixed distance of each other. In [Gilpin et. al., (2018)](https://doi.org/10.5194/amt-11-1-2018), we propose to co-locate observations using elipses oriented along the direction of the wind, rather than circles, to reduce representativeness errors during radiosonde-RO comparisions. 
+
 Relevant Publications
 ------
 Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons, Atmos. Meas. Tech, 11, 269-289, [https://doi.org/10.5194/amt-11-1-2018](https://doi.org/10.5194/amt-11-1-2018).
