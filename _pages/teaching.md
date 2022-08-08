@@ -35,7 +35,7 @@ Teaching Assistant. Description: graduate course for first-time teaching assista
 
 Calculus I Recitation, Fall 2021, 2019, University of Colorado, Boulder
 ------
-Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus I students, approx. 25 students, 50 min remote course once a week, one recitation course taught. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
+Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus I students, approx. 25 students, 50 min course  once a week, one remote section taught in 2021, three in-person sections taught in 2019. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
 
 Calculus II Recitation, Spring 2019, University of Colorado, Boulder
 ------
