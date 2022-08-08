@@ -23,9 +23,9 @@ Education
 
 Research Experience
 ======
-* NSF Graduate Research Fellow, University of Colorado Boulder, Fall 2019 - present
-* Visiting Scientist, University Corporation for Atmospheric Research (UCAR) COSMIC Program, Fall 2017 - Spring 2019
-* Significant Opportunities in Atmospheric Research and Science (SOARS) Intern, UCAR, Summer 2016, 2017
+* NSF Graduate Research Fellow, University of Colorado, Boulder, Fall 2019 - present
+* Visiting Scientist, University Corporation for Atmospheric Research (UCAR) [COSMIC Program](https://www.cosmic.ucar.edu), Fall 2017 - Spring 2019
+* Significant Opportunities in Atmospheric Research and Science [(SOARS)](https://soars.ucar.edu) Intern, UCAR, Summer 2016, 2017
 
 
 
