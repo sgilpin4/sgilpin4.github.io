@@ -21,6 +21,13 @@ Education
 * B.A. Mathematics, University of California Santa Cruz, 2017
 
 
+Research Experience
+======
+* NSF Graduate Research Fellow, University of Colorado Boulder, Fall 2019 - present
+* Visiting Scientist, University Corporation for Atmospheric Research (UCAR) COSMIC Program, Fall 2017 - Spring 2019
+* Significant Opportunities in Atmospheric Research and Science (SOARS) Intern, UCAR, Summer 2016, 2017
+
+
 
 
 
