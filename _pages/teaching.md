@@ -17,7 +17,7 @@ Professional Developmet
 ======
 In order to succeed as an effective instructor, I am always seeking out ways to learn and grow as a teacher. This includes participating in various professional development workshops and seminars on teaching.
 
-Transforming Your Teaching Into Learning (TYRIT), Summer 2022, University of Colorado, Boulder
+Transforming Your Research Into Teaching (TYRIT), Summer 2022, University of Colorado, Boulder
 ------
 This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the groud up using participant's PhD or postdoc research as the material for the course.
 
