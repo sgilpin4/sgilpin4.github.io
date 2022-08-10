@@ -19,7 +19,7 @@ In order to succeed as an effective instructor, I am always seeking out ways to 
 
 Transforming Your Research Into Teaching (TYRIT), Summer 2022, University of Colorado, Boulder
 ------
-This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the groud up using participant's PhD or postdoc research as the material for the course.
+This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the groud up using participant's PhD or postdoc research as the material for the course. For this workshop series, I developed a graduate level elective course on hyperbolic partial differential equations.
 
 Center for Teaching and Learning Lead, Summer 2020-Spring 2021, University of Colorado, Boulder
 ------
