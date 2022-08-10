@@ -13,11 +13,11 @@ Covariance Dynamics in Data Assimilation
 Uncertainty quantification, particularly the covariance, is crucial for numerical weather prediction (NWP) models, and there are still parts of how the covariance evolves in time that we don’t fully understand. My research looks at this covariance propagation, studying the mathematical equations that describe its time evolution and how we solve these equations during data assimilation. By taking a fundamental look at these equations, I am seeking a better understanding of behaviors observed in current NWP models, such as variance loss, to improve our ability to more accurately forecast weather and provide better preparedness for severe weather events. This research involves different areas of mathematics: statistics, functional analysis, partial differential equations, and numerical analysis.
 
 ![image](/images/cndiags_cLto0_gc.png "Examples of inaccurate variance propagation")
-The above figure is an example of how standard, full-rank covariance propagation using a Crank-Nicoloson scheme can produce covariance matrix diagonals (color) that are smooth, but wholly inaccurate. We observe not only variance loss, but also variance gain, both of which can cause problems during data assimilation. See [Gilpin et. al., (2022)](https://doi.org/10.1137/21M1442449) for more details.
+The above figure is an example of how standard, full-rank covariance propagation using a Crank-Nicoloson finite difference scheme can produce covariance matrix diagonals (color) that are smooth, but wholly inaccurate. We observe not only variance loss, but also variance gain, both of which can cause problems during data assimilation. See [Gilpin et. al., (2022)](https://doi.org/10.1137/21M1442449) for more details.
 
 Relevant Publications
 ------
-Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation for understanding variance loss in advective systems, , SIAM/ASA J. Uncertainty Quantification, 10, 886 – 914, [https://doi.org/10.1137/21M1442449](https://doi.org/10.1137/21M1442449).
+Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation for understanding variance loss in advective systems, SIAM/ASA J. Uncertainty Quantification, 10, 886 – 914, [https://doi.org/10.1137/21M1442449](https://doi.org/10.1137/21M1442449).
 
 
 Radio Occultation
@@ -31,7 +31,7 @@ Traditional co-location methods used for comparing atmospheric observations are 
 
 Relevant Publications
 ------
-Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons, Atmos. Meas. Tech, 11, 269-289, [https://doi.org/10.5194/amt-11-1-2018](https://doi.org/10.5194/amt-11-1-2018).
+Gilpin, S., Rieckh, T., and Anthes, R., 2018: Reducing representativeness errors during radio occultation – radiosonde comparisons, Atmos. Meas. Tech., 11, 269-289, [https://doi.org/10.5194/amt-11-1-2018](https://doi.org/10.5194/amt-11-1-2018).
 
 
-Gilpin, S., Anthes, R., and Sokolovskiy, S., 2019: Sensitivity of forward-modeled bending angles to vertical interpolation of refractivity for radio occultation data assimilation, Mon. Wea. Rev, 147, 2567–2582, [https://doi.org/10.1175/MWR-D-18-0223.1](https://doi.org/10.1175/MWR-D-18-0223.1)
+Gilpin, S., Anthes, R., and Sokolovskiy, S., 2019: Sensitivity of forward-modeled bending angles to vertical interpolation of refractivity for radio occultation data assimilation, Mon. Wea. Rev., 147, 2567–2582, [https://doi.org/10.1175/MWR-D-18-0223.1](https://doi.org/10.1175/MWR-D-18-0223.1)
