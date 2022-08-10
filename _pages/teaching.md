@@ -23,20 +23,20 @@ This seven week workshop series offered through the Center for the Integration o
 
 Center for Teaching and Learning Lead, Summer 2020-Spring 2021, University of Colorado, Boulder
 ------
-I participated as one of two Center for Teaching and Learning (CTL) Lead Teaching Assistants for the Applied Math department. As Lead, I participated in a week-long orientation through the CTL and served as a resource for Teaching Assistants in our department for the 2020-2021 academic year. This included running the Teaching Excellence course in Fall 2022, observing classes, and video teaching consultations.
+I participated as one of two Center for Teaching and Learning (CTL) Lead Teaching Assistants for the Applied Math department. As Lead, I participated in a week-long orientation through the CTL and served as a resource for Teaching Assistants in our department for the 2020-2021 academic year. This included running the Teaching Excellence course in Fall 2020, observing classes, and providing video teaching consultations.
 
 
 Teaching Experience
 ======
 
-Teaching Excellence, Fall 2021, University of Colorado, Boulder
+Teaching Excellence, Fall 2020, University of Colorado, Boulder
 ------
-Teaching Assistant. Description: graduate course for first-time teaching assistants for the Applied Math department, approx. 15 students, 50 min remote course once a week. Responsibilities include: generating curriculum for the course, instructing half of the semester classes, writing and grading assignments.
+Teaching Assistant. Description: graduate course for first-time teaching assistants for the Applied Math department, 15-20 students, 50 min remote course once a week. Responsibilities include: generating curriculum for the course, instructing half of the semester classes, writing and grading assignments.
 
-Calculus I Recitation, Fall 2021, 2019, University of Colorado, Boulder
+Calculus I Recitation, Fall 2020, 2019, University of Colorado, Boulder
 ------
 Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus I students, approx. 25 students, 50 min course  once a week, one remote section taught in 2021, three in-person sections taught in 2019. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
 
 Calculus II Recitation, Spring 2019, University of Colorado, Boulder
 ------
-Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus II students, approx. 25 students, 50 min remote course once a week, three recitation courses taught. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
+Teaching Assistant. Description: undergraduate recitation course supplement to lecture course for Calculus II students, approx. 25 students, 50 min in-person course once a week, three recitation courses taught. Responsibilities include: lesson-planning, writing and grading weekly quizzes, grading homeworks and exams, hosting office hours.
