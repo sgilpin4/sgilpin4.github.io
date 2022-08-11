@@ -22,7 +22,7 @@ Gilpin, S., Matsuo, T., and Cohn, S.E., 2022: Continuum covariance propagation f
 
 Radio Occultation
 ======
-Radio occultation (RO) is a method of remote-sensing used to observe Earth's atmosphere. As radiowaves emitted from GPS satellites traverse quasi-horiztontally through our atmosphere, they bend (refract) depending on the atmospheric state. Low-Earth orbiting (LEO) satellites then receive these radiowave signals, which can ultimately produce vertical profiles important lower atmospheric and ionospheric quantities. RO observations are assimilated into numerical weather prediction and have been shown to make a significant impact.
+Radio occultation (RO) is a method of remote-sensing used to observe Earth's atmosphere. As radiowaves emitted from GPS satellites traverse quasi-horiztontally through our atmosphere, they bend (refract) depending on the atmospheric state. Low-Earth orbiting (LEO) satellites then receive these radiowave signals, which can ultimately produce vertical profiles of lower atmospheric and ionospheric quantities. RO observations are assimilated into numerical weather prediction models and have been shown to make a significant impact.
 
 While working for the Constellation Observing System for Meteorology, Ionosphere and Climate ([COSMIC](https://www.cosmic.ucar.edu)) Program at UCAR, I worked on small projects with the aim of improving co-locations methods for RO-radiosonde comparisons and investiagating the errors introduced during vertical interpolation of bending angles during RO data assimilation.
 
