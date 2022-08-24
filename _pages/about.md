@@ -11,7 +11,7 @@ Research Interests
 ======
 I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My current research focuses on dynamics in the context of data assimilation, particularly covariance dynamics associated with states governed by the continuity equation and related hyperbolic partial differential equations. Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution in the continuum and as practiced in data assimilation algorithms. 
 
-My future research goals are to continue bridging our continuum understanding of dynamics with different applications. This includes pursing problems in geophysical fluid dynamics (GFD), where the theoretical and numerical tools of GFD can help me address problems in data assimilation in future work.
+My future research goals are to continue bridging our continuum understanding of dynamics with different applications. This includes pursing problems in geophysical fluid dynamics (GFD), where the theoretical and numerical tools of GFD can apply to future problems I'd like to tackle in numerical weather prediction and data assimilation.
 
 
 Education
