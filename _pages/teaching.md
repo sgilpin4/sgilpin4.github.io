@@ -17,6 +17,10 @@ Professional Developmet
 ======
 In order to succeed as an effective instructor, I am always seeking out ways to learn and grow as a teacher. This includes participating in various professional development workshops and seminars on teaching.
 
+Certificate in College Teaching, August 2022, University of Colorado, Bouler
+------
+The [Certificate in College Teaching (CCT)](https://www.colorado.edu/center/teaching-learning/programs/graduate-certificates/certificate-college-teaching) is a graduate certificate given by the Center for Teaching and Learning. The certificate requires teaching at least two semesters, participation in several professional development workshops, peer and instructor evaluations, and submitting a teaching portfolio. 
+
 Transforming Your Research Into Teaching (TYRIT), Summer 2022, University of Colorado, Boulder
 ------
 This seven week workshop series offered through the Center for the Integration of Research, Teaching and Learning (CIRTL) network explored how to create a class from the ground up using participant's PhD or postdoc research as the material for the course. For this workshop series, I developed a graduate level elective course on hyperbolic partial differential equations.
