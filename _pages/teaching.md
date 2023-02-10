@@ -17,7 +17,7 @@ Professional Developmet
 ======
 In order to succeed as an effective instructor, I am always seeking out ways to learn and grow as a teacher. This includes participating in various professional development workshops and seminars on teaching.
 
-Certificate in College Teaching, August 2022, University of Colorado, Bouler
+Certificate in College Teaching, August 2022, University of Colorado, Boulder
 ------
 The [Certificate in College Teaching (CCT)](https://www.colorado.edu/center/teaching-learning/programs/graduate-certificates/certificate-college-teaching) is a graduate certificate given by the Center for Teaching and Learning. The certificate requires teaching at least two semesters, participation in several professional development workshops, peer and instructor evaluations, and submitting a teaching portfolio. 
 
