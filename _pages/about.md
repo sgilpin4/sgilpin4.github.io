@@ -15,7 +15,7 @@ My overall research goal is to use mathematics to study problems in data assimil
 
 Education
 ======
-* PhD, Applied Mathematics, University of Colorado, Boulder, expected Summeer 2023
+* PhD, Applied Mathematics, University of Colorado, Boulder, expected Summer 2023
 * M.S. Applied Mathematics, University of Colorado, Boulder, 2022
 * B.A. Mathematics, University of California Santa Cruz, 2017
 
