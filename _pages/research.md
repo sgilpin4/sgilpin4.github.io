@@ -23,6 +23,8 @@ Covariance Modeling
 ======
 Covariance modeling is a challenging and highly relevant problem in both spatial statistics and data assimilation applications. Often, parametric correlation functions are used to construct correlation fields from a finite number of parameters to then model covariances. The figure below is an example of the Generalized Gaspari-Cohn correlation matrix from [Gilpin et al., (2023)](https:(https://doi.org/10.1002/qj.4490), which generalizes the Gaspari-Cohn correlation function commonly used in data assimilation applications. The Generalized Gaspari-Cohn correlation function can generate correlations that are highly anisotropic and compactly supported on non-uniform domains, making it a powerful tool for covariance modeling.
 
+![image](/images/Gilpin_fig5.png "Example of Generalized Gaspari-Cohn on the Unit Circle")
+
 Relevant Publications
 ------
 Gilpin, S., Matsuo, T., and Cohn, S.E., 2023: A generalized, compactly-supported correlation function for data assimilation applications, Q. J. Roy. Meteor. Soc., 149, 1953 - 1989, [https://doi.org/10.1002/qj.4490](https://doi.org/10.1002/qj.4490).
