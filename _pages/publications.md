@@ -9,9 +9,9 @@ author_profile: true
 
 2023
 ------
-Gilpin, S., Matsuo, T., and Cohn, S.E., 2023: A generalized, compactly-supported correlation function for data assimilation applications, Q. J. Roy. Meteor. Soc, 149, 1953-1989, [https://doi.org/10.1002/qj.4490].
+Gilpin, S., Matsuo, T., and Cohn, S.E., 2023: A generalized, compactly-supported correlation function for data assimilation applications, Q. J. Roy. Meteor. Soc, 149, 1953-1989, [https://doi.org/10.1002/qj.4490](https://doi.org/10.1002/qj.4490).
 
-Gilpin, S.: A generalized Gaspari-Cohn correlation function (v1.0), Zenodo, [https://doi.org/10.5281/zenodo.7859258].
+Gilpin, S.: A generalized Gaspari-Cohn correlation function (v1.0), Zenodo, [https://doi.org/10.5281/zenodo.7859258](https://doi.org/10.5281/zenodo.7859258).
 
 2022
 ------
