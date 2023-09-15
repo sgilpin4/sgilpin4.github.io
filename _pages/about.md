@@ -9,7 +9,7 @@ redirect_from:
 ---
 Research Interests
 ======
-I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My current research focuses on data assimilation, particularly covariance dynamics associated with states governed by the continuity equation and related hyperbolic partial differential equations. Using tools from partial differential equations, functional analysis, statistics, and numerics, we can obtain a fundamental understanding of covariance evolution in the continuum and as practiced in data assimilation algorithms. 
+I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My current research focuses on covariances governed by hyperbolic partial differential equations. By studying these dynamics in both the continuum and discrete spaces, we gain a better understanding of how covariances evolve in space in time. This work is highly relevant to applications such as data assimilation and geophysical systems involving advective dynamics. 
 
 My overall research goal is to use mathematics to study problems in data assimilation and geoscience in an effort to further our understanding and develop practical solutions. 
 
