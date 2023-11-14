@@ -32,6 +32,7 @@ I participated as one of two Center for Teaching and Learning (CTL) Lead Teachin
 
 Teaching Experience
 ======
+
 First Semester Calculus (122B), Fall 2023, University of Arizona
 ------
 Instructor. Description: introductory calculus course for undergraduate students, 25-30 students, 50 min in-person courses 5 days a week. Responsibilities include: lesson planning, lecturing, writing and grading written quizzes, writing and grading in class midterm exams, hosting office hours.
