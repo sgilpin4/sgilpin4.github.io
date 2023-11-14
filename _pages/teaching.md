@@ -34,7 +34,7 @@ Teaching Experience
 ======
 First Semester Calculus (122B), Fall 2023, University of Arizona
 ------
-Instructor. Description: introductory calculus course for undergraduate students, 30-35 students, 50 min in-person courses 5 days a week. Responsibilities include: lesson planning, lecturing, writing and grading written quizzes, writing and grading in class midterm exams, hosting office hours.
+Instructor. Description: introductory calculus course for undergraduate students, 25-30 students, 50 min in-person courses 5 days a week. Responsibilities include: lesson planning, lecturing, writing and grading written quizzes, writing and grading in class midterm exams, hosting office hours.
 
 Teaching Excellence, Fall 2020, University of Colorado, Boulder
 ------
