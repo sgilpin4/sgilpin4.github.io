@@ -32,6 +32,13 @@ I participated as one of two Center for Teaching and Learning (CTL) Lead Teachin
 
 Teaching Experience
 ======
+Wildcat Proofs Workshop (396L), Spring 2024, University of Arizona
+------
+Instructor. Through group work and class discussions, the goal of this class is to practice developing and proving mathematical statements. 
+
+Vector Calculus Supplemental Course (196V), Spring 2024, University of Arizona
+------
+Instructor. Supplementary course to the Vector Calculus lecture course for undergraduate students. The goal of this course is to strengthen understanding and problem-solving skills in the context of multi-variable calculus. 
 
 First Semester Calculus (122B), Fall 2023, University of Arizona
 ------
