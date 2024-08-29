@@ -31,6 +31,9 @@ I participated as one of two Center for Teaching and Learning (CTL) Lead Teachin
 
 Teaching Experience
 ======
+Introduction to Linear Algebra (313), Fall 2024, University of Arizona.
+------
+Instructor. First course in linear algebra, introducing various aspects of vector spaces through matrix and vector algebra.  
 
 Wildcat Proofs Workshop (396L), Spring 2024, University of Arizona
 ------
