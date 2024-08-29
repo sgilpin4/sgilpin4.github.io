@@ -27,6 +27,11 @@ Research Experience
 * Visiting Scientist, University Corporation for Atmospheric Research (UCAR) [COSMIC Program](https://www.cosmic.ucar.edu), Fall 2017 - Spring 2019
 * Significant Opportunities in Atmospheric Research and Science [(SOARS)](https://soars.ucar.edu) Intern, UCAR, Summer 2016, 2017
 
+Fellowships and Awards
+======
+* [AMS-Simons Travel Grant](http://www.ams.org/programs/travel-grants/AMS-SimonsTG), Awarded Summer 2024.
+* NSF Graduate Research Fellowship [(GRFP)](https://www.nsfgrfp.org/), Awarded Spring 2019.
+
 
 
 
