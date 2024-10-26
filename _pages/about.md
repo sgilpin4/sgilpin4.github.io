@@ -9,9 +9,7 @@ redirect_from:
 ---
 Research Interests
 ======
-I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My current research focuses on covariances governed by hyperbolic partial differential equations. By studying these dynamics in both the continuum and discrete spaces, we gain a better understanding of how covariances evolve in space in time. This work is highly relevant to applications such as data assimilation and geophysical systems involving advective dynamics. 
-
-My overall research goal is to use mathematics to study problems in data assimilation and geoscience in an effort to further our understanding and develop practical solutions. 
+I believe mathematics is its most beautiful when it can be used to understand the world around us, which is why I use mathematics as a tool to study problems related to atmospheric and ocean science. My work is inspired by data assimilation, which is a statistical technique that blends model and observations to improve predictions. My current research applies theory from partial differential equations and numerical analysis to study fundamental problems in data assimilation to futher our understanding and develop practical solutions.
 
 Education
 ======
@@ -29,6 +27,7 @@ Research Experience
 
 Fellowships and Awards
 ======
+* [Donald L. Turcotte Award](https://www.agu.org/honors/turcotte/past-recipients), Dissertation Award, American Geophysical Union, Awarded Fall 2024.
 * [AMS-Simons Travel Grant](http://www.ams.org/programs/travel-grants/AMS-SimonsTG), Awarded Summer 2024.
 * NSF Graduate Research Fellowship [(GRFP)](https://www.nsfgrfp.org/), Awarded Spring 2019.
 
