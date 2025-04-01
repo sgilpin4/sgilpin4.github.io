@@ -31,6 +31,10 @@ I participated as one of two Center for Teaching and Learning (CTL) Lead Teachin
 
 Teaching Experience
 ======
+Analysis of Ordinary Differential Equations (355), Spring 2025, University of Arizona.
+------
+Instructor. Introduction to solution methods for ordinary differential equations and analysis of autonomous systems. 
+
 Introduction to Linear Algebra (313), Fall 2024, University of Arizona.
 ------
 Instructor. First course in linear algebra, introducing various aspects of vector spaces through matrix and vector algebra.  
