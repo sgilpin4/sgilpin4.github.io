@@ -7,6 +7,11 @@ author_profile: true
 
 {% include base_path %}
 
+2025
+------
+Gilpin, S., Matsuo, T., and Cohn, S.E., 2025: Inaccuracy of the variance evolution associated with discrete covariance propagation, Q. J. Roy. Meteor. Soc, 1-26, [https://doi.org/10.1002/qj.5016](https://doi.org/10.1002/qj.5016).
+
+
 2023
 ------
 Gilpin, S., Matsuo, T., and Cohn, S.E., 2023: A generalized, compactly-supported correlation function for data assimilation applications, Q. J. Roy. Meteor. Soc, 149, 1953-1989, [https://doi.org/10.1002/qj.4490](https://doi.org/10.1002/qj.4490).
