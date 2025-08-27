@@ -11,6 +11,12 @@ author_profile: true
 ------
 Gilpin, S., Matsuo, T., and Cohn, S.E., 2025: Inaccuracy of the variance evolution associated with discrete covariance propagation, Q. J. Roy. Meteor. Soc, 1-26, [https://doi.org/10.1002/qj.5016](https://doi.org/10.1002/qj.5016).
 
+Submitted
+------
+Gilpin, S., 2025: Inaccuracy of ensemble-based covariance propagation, beyond sampling error, submitted to Tellus A: Dynamic Meteorology and Oceanography, Aug 2025. [https://doi.org/10.48550/arXiv.2508.16567](https://doi.org/10.48550/arXiv.2508.16567).
+
+Gilpin, S., Morzfeld, M., Lin, K., 2025: Numerical study of high-dimensional covariance estimation and localization for data assimilation, submitted to Mon. Weather Rev., Aug 2025. [https://doi.org/10.48550/arXiv.2508.18299](https://doi.org/10.48550/arXiv.2508.18299).
+
 
 2023
 ------
