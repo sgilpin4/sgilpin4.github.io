@@ -31,6 +31,7 @@ I participated as one of two Center for Teaching and Learning (CTL) Lead Teachin
 
 Teaching Experience
 ======
+
 Analysis of Ordinary Differential Equations (355), Fall, Spring 2025, University of Arizona.
 ------
 Instructor. Introduction to solution methods for ordinary differential equations and analysis of autonomous systems. 
