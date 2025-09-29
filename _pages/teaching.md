@@ -9,7 +9,7 @@ author_profile: true
 
 Philosophy of Teaching and Learning
 ======
-On the surface, my role as an instructor is to teach my students mathematics and how to use these tools in their own disciples. Deeper down, my goal is to instill in my students the desire to think critically and strive to understand why first, then how. There is more to mathematics than computing derivaties or implementing optimization schemes, and I want my students to walk away from my classes appreciating the breadth of understanding mathematics gives us and the ability to critically think and problemsolve in their own fields.
+On the surface, my role as an instructor is to teach my students mathematics and how to use these tools in their own disciples. Deeper down, my goal is to instill in my students the desire to think critically and strive to understand why first, then how. There is more to mathematics than computing derivatives or implementing optimization schemes, and I want my students to walk away from my classes appreciating the breadth of understanding mathematics gives us and the ability to critically think and problem solve in their own fields.
 
 
 Professional Development
