@@ -9,7 +9,7 @@ redirect_from:
 ---
 Research Interests
 ======
-I believe mathematics is its most beautiful when it is used to understand the world around us. This motivated me to become an applied mathematician, where I use mathematics as a tool to study problems in the atmospheric and ocean sciences. My work is inspired by data assimilation, which is a class of statistical estimation techniques that blend models and observations to improve predictions. My current research applies theory from partial differential equations and numerical analysis to study fundamental problems in data assimilation to further our understanding and develop practical solutions.
+I believe mathematics is its most beautiful when it is used to understand the world around us. This motivated me to become an applied mathematician, where I now use mathematics to study problems in the atmospheric and ocean sciences. My work is inspired by data assimilation, which is a class of statistical estimation techniques that blend models and observations to improve predictions. My current research applies theory from partial differential equations and designs numerical methods to tackle fundamental problems in data assimilation, furthering our understanding and develop practical solutions.
 
 Education
 ======
