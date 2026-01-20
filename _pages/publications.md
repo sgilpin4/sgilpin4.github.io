@@ -13,11 +13,13 @@ Gilpin, S., Matsuo, T., and Cohn, S.E., 2025: Inaccuracy of the variance evoluti
 
 Submitted
 ------
-Gilpin, S., Herty, M., 2025: A modified particle filter that reduces weight collapse, submitted to Physical Review E, Oct 2025. [https://doi.org/10.48550/arXiv.2510.23740](https://doi.org/10.48550/arXiv.2510.23740).
+Gilpin, S., 2026: Inaccuracy of ensemble-based covariance propagation, beyond sampling error, under review at Tellus A, submitted Aug 2025. [https://doi.org/10.48550/arXiv.2508.16567](https://doi.org/10.48550/arXiv.2508.16567).
 
-Gilpin, S., 2025: Inaccuracy of ensemble-based covariance propagation, beyond sampling error, submitted to Tellus A: Dynamic Meteorology and Oceanography, Aug 2025. [https://doi.org/10.48550/arXiv.2508.16567](https://doi.org/10.48550/arXiv.2508.16567).
+Gilpin, S., Morzfeld, M., Lin, K., 2026: Numerical study of high-dimensional covariance estimation and localization for data assimilation, under review at Mon. Weather Rev., submitted Aug 2025. [https://doi.org/10.48550/arXiv.2508.18299](https://doi.org/10.48550/arXiv.2508.18299).
 
-Gilpin, S., Morzfeld, M., Lin, K., 2025: Numerical study of high-dimensional covariance estimation and localization for data assimilation, submitted to Mon. Weather Rev., Aug 2025. [https://doi.org/10.48550/arXiv.2508.18299](https://doi.org/10.48550/arXiv.2508.18299).
+In Prep.
+------
+Gilpin, S., Herty, M., 2026: A modified particle filter that reduces weight collapse. [https://doi.org/10.48550/arXiv.2510.23740](https://doi.org/10.48550/arXiv.2510.23740).
 
 
 2023
