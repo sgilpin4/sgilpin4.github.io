@@ -24,7 +24,8 @@ Education
 
 Research Experience
 ======
-* Postdoctoral Research Associate, Department of Mathematics, University of Arizona, Fall 2023 - present 
+* Postdoctoral Research Associate, Department of Mechanical & Aerospace Engineering, Princeton University, June 2026 - Present 
+* Postdoctoral Research Associate, Department of Mathematics, University of Arizona, August 2023 - June 2026 
 * NSF Graduate Research Fellow, University of Colorado, Boulder, Fall 2019 - Summer 2023
 * Visiting Scientist, University Corporation for Atmospheric Research (UCAR) [COSMIC Program](https://www.cosmic.ucar.edu), Fall 2017 - Spring 2019
 * Significant Opportunities in Atmospheric Research and Science [(SOARS)](https://soars.ucar.edu) Intern, UCAR, Summer 2016, 2017
