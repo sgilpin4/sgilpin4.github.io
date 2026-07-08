@@ -17,7 +17,7 @@ The above figure is an example of how variances propagated by using standard, fu
 
 Relevant Publications
 ------
-Gilpin, S., 2025: Inaccuracy of ensemble-based covariance propagation, beyond sampling error, [https://doi.org/10.48550/arXiv.2508.16567](https://doi.org/10.48550/arXiv.2508.16567).
+Gilpin, S., 2026: Inaccuracy of ensemble-based covariance propagation, beyond sampling error, Tellus, [https://doi.org/10.48550/arXiv.2508.16567](https://doi.org/10.16993/tellus.4119).
 
 Gilpin, S., Matsuo, T., and Cohn, S.E., 2025: Inaccuracy of the variance evolution associated with discrete covarince propagation, Q. J. Roy. Meteor. Soc., 1-26, [https://doi.org/10.1002/qj.5016](https://doi.org/10.1002/qj.5016).
 
